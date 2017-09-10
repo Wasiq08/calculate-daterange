@@ -1,0 +1,20 @@
+{
+  "name": "calculate-daterange",
+  "version": "1.0.0",
+  "description": "A method for calculating dates by providing start and end dates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calculate-date",
+    "date-range",
+    "picker"
+  ],
+  "author": "Wasiq Muhammad",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.18.1",
+    "twix": "^1.2.0"
+  }
+}
