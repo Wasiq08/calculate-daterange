@@ -9,8 +9,12 @@
   "keywords": [
     "calculate-date",
     "date-range",
-    "picker"
+    "picker",
+	"date",
+	"ranges",
+	"date-time"
   ],
+   "homepage": "https://github.com/Wasiq08/calculate-daterange/blob/master/README.md",
   "author": "Wasiq Muhammad",
   "license": "ISC",
   "dependencies": {
