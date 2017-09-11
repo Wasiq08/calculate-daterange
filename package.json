@@ -1,6 +1,6 @@
 {
   "name": "calculate-daterange",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A method for calculating dates by providing start and end dates",
   "main": "index.js",
   "scripts": {
